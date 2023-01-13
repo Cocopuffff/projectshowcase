@@ -1,0 +1,154 @@
+<!DOCTYPE=html>
+<html>
+<head>
+<script src="https://kit.fontawesome.com/27eb947f9d.js" crossorigin="anonymous"></script>
+<link href="/normalize.css" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Poppins:wght@300&family=Satisfy&display=swap" rel="stylesheet">
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Poppins:wght@300&family=Satisfy&display=swap');
+
+body{
+  background: rgba(232,222,215,1);
+  text-align: center;
+  font-family: "Poppins";
+  color : black;
+}
+.background {
+  background-image: url(https://live.staticflickr.com/65535/52618585906_114bdc73b5_o.jpg);
+  background-position: center;
+  background-size: cover;
+  margin: 0 auto;
+  position: relative;
+}
+h1 {
+  font-size: 48px;
+  font-weight: bold;
+  color: #111;
+  font-family: "Permanent Marker";
+  background: rgba(255, 255, 255, 0.4);
+  margin: 60px 0 60px 0;
+}
+h2{
+  display: inline-block;
+  text-align: left;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: "Permanent Marker";
+}
+ul {
+  padding: 5px 0 5px 0;
+  background: rgba(0,0,0,0.8);
+}
+li {
+  margin: 0 auto;
+  padding: 0 20px 0 20px;
+  font-size: 20px;
+  color: white;
+  display: inline;
+}
+img{
+  max-width: 100%;
+  height: auto;
+  border-radius: 15px;
+  margin: 5px 5px 5px 5px;
+}
+p{
+  text-align: justify;
+  font-size: 20px;
+}
+article {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 0 0 30px 0;
+}
+header {
+  text-align: right;
+  background: linear-gradient(to right, rgba(133, 193, 233,0.1), rgba(249, 231, 159,1));
+  background: -moz-linear-gradient(to right, rgba(133, 193, 233,0.1), rgba(249, 231, 159,1));
+  background: -webkit-linear-gradient(to right, rgba(133, 193, 233,0.1), rgba(249, 231, 159,1));
+  padding: 4px 60px 4px 30px;
+}
+a {
+  color: white;
+}
+footer {
+  font-family: 'Satisfy', cursive;
+  background: black;
+  color: orange;
+  padding: 7px 0px 7px 0px;
+}
+.date {
+  float: left;
+  font-weight: normal;
+  font-size: 16px;
+}
+@media (max-width: 500px) {
+  header {
+    padding: 3px 30px;
+  }
+  h1 {
+    margin: 0 12px 0 12px;
+    font-size: 28px;
+  }
+  h2 {
+    margin: 0 12px 0 12px;
+    font-size: 20px;
+  }
+  p {
+    font-size: 16px;
+    margin: 0 12px 0 12px;
+  }
+  li {
+  padding: 0px 10px 0px 10px;
+  font-size: 16px;
+  }
+  img {
+  margin: 5px auto;
+  }
+}
+</style>
+</head>
+
+<body>
+<div class="background">
+<header>
+
+<li>
+<a href="https://twitter.com/kennethqzw">
+    <i class="fa-brands fa-twitter" style="font-size:36px;color:#1DA1F2"></i>
+</a>
+</li>
+<li>
+<a href="https://sg.linkedin.com/in/kquek">
+    <i class="fa-brands fa-linkedin" style="font-size:36px;color:#0A66C2"></i>
+</a>
+</li>
+</header>
+<h1>Kenneth's Blog</h1>
+
+<ul>
+<a href="#"><li>Lifestyle</li></a>
+<a href="#"><li>Coco</li></a>
+<a href="#"><li>Food</li></a>
+</ul>
+</div>
+<article>
+<h2>Trip to Clark Quay<br /><span class="date">9th Oct 2022<span></h2>
+<p>Wife and I took a much needed stroll down Clark Quay after eating a hearty dinner buffet at Ellenborough Market Cafe. Took some great photos of the amazing nightscape when combined with some great angles.</p>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/197341945@N07/52618619067/in/dateposted-public/" title="Clark Quay Heart 2"><img src="https://live.staticflickr.com/65535/52618619067_efd7ee1ffb_c.jpg" width="600" height="800" alt="Clark Quay Heart 2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/197341945@N07/52619565245/in/dateposted-public/" title="Clark Quay 1"><img src="https://live.staticflickr.com/65535/52619565245_6195081106.jpg" width="300" height="375" alt="Clark Quay 1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/197341945@N07/52619565160/in/dateposted-public/" title="Clark Quay 2"><img src="https://live.staticflickr.com/65535/52619565160_7cfce18e85.jpg" width="300" height="375" alt="Clark Quay 2"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</article>
+<article>
+<h2>Wedding Anniversary @ Sentosa<br /><span class="date">4th Oct 2022<span></h2>
+<p>I booked a room at Sofitel @ Sentosa for our wedding anniversary! It was warm and occasionally drizzly day but it produced incredible photoshots for us. We rode down the slopes on Skyline Luge, paced along the sea coast, watched the sunset before having a romantic Italian dinner at The Cliff.</p>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/197341945@N07/52619418895/in/dateposted-public/" title="Sentosa Luge Skyride"><img src="https://live.staticflickr.com/31337/52619418895_5e347f6bd2_z.jpg" width="640" height="360" alt="Sentosa Luge Skyride"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/197341945@N07/52618853289/in/dateposted-public/" title="sentosasunset"><img src="https://live.staticflickr.com/65535/52618853289_55c903d9f1.jpg" width="300" height="375" alt="sentosasunset"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/197341945@N07/52618585906/in/dateposted-public/" title="90degreescoconuttree"><img src="https://live.staticflickr.com/65535/52618585906_4caa17dc70.jpg" width="300" height="375" alt="90degreescoconuttree"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</article>
+<footer>
+Created by Kenneth, with the help of https://dash.generalassemb.ly/<br>
+<a href="https://www.freepik.com/free-vector/ripped-paper-note-seamless-wallpaper-design_16399456.htm#query=notebook%20background&position=28&from_view=keyword">Background image by rawpixel.com</a> on Freepik
+</footer>
+</body>
+</html>
